@@ -1,7 +1,6 @@
 HexSoftwares_Gym_Website
 Project Overview
 This project is part of my Web Development Internship at Hex Softwares. The objective was to create a modern, single-page gym website that showcases facilities, services, and membership plans in a scrollable format.
-+2
 
 Features
 
@@ -28,7 +27,7 @@ CSS3: For styling, layout (Flexbox/Grid), and animations.
 
 HOW TO RUN
 
-git clone https://github.com/MATETE_MAGOMANE/HexSoftwares_Gym_Website.git
+git clone https://github.com/matetemagomane/HexSoftwares_Gym_Website.git
 
 
 JavaScript: To handle navigation effects and interactivity.
