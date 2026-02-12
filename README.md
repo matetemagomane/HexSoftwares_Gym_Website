@@ -24,10 +24,4 @@ HTML5: For the structure of the web pages.
 
 CSS3: For styling, layout (Flexbox/Grid), and animations.
 
-
-HOW TO RUN
-
-git clone https://github.com/matetemagomane/HexSoftwares_Gym_Website.git
-
-
 JavaScript: To handle navigation effects and interactivity.
